@@ -4,7 +4,7 @@ Welcome to the Project-PricingPanel repository! This is one of my early projects
 
 ## Project Preview 🖥️
 
-![Pricing Panel Preview](https://github.com/mandartule/Project-PricingPanel/assets/105853152/71f1a9c5-7a9d-4fde-95b8-680ba338800f)
+![Pricing Panel Preview](https://mandartule.github.io/Project-PricingPanel/)
 
 
 ## Live Demo 🚀
